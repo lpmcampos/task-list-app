@@ -6,6 +6,8 @@ const TitleBarStyle = styled.div`
     {
       box-shadow: 0px 1px 0px 1px #8a8989;
       min-height: 150px;
+      position: sticky;
+      top: 0;
     }
     .nav {
       display: inline;
