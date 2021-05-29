@@ -23,7 +23,7 @@ const TitleBar = () => {
   return (
     <TitleBarStyle>
       <Nav>
-        <h1 className="text">New App</h1>
+        <h1 className="text">Task List App</h1>
       </Nav>
     </TitleBarStyle>
   );
