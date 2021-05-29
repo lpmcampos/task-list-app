@@ -6,16 +6,16 @@ import axios from 'axios';
 const PageTitleStyle = styled.div`
     position: absolute;
     width: 75%;
-    top: 20%;
+    top: 175px;
     bottom: 0;
 `;
 
 const TaskListStyle = styled.div`
     position: absolute;
     width: 75%;
-    top: 28%;
+    top: 250px;
     bottom: 0;
-    overflow-y: auto;
+    overflow: auto;
 `;
 
 function NoTasksMessage() {
